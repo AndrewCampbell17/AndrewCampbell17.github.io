@@ -17,4 +17,4 @@ The purpose of this blog is for me to have somewhere to share some of the experi
 My name is Andrew Campbell. I recently graduated from Webster University with a B.S in Computer Science. I am currently looking for a job as a software developer in the St. Louis area.
 
 ### Questions?
- If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+ If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40Androoodles), or [file a GitHub issue](https://github.com/AndrewCampbell17/AndrewCampbell17.github.io/issues/new).
