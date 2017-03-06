@@ -1,19 +1,19 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               Andrew Campbell
+tagline:             a programmers mind
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            #"/AndrewCampbell17"
+url:                #"https://AndrewCampbell17.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               #"https://AndrewCampbell17.github.io"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Andrew Campbell"
+  email:             "AndrewCampbell94@Outlook.com"
+  twitter:           "Androoodles"
+  instagram:         "acampbell0517"
+  github:            "AndrewCampbell17"
+  facebook:          "AndrewCampbell22"
+  linkedin:          "andrew-campbell-534ba6124"
 navigation:
 - title: About
   url: /about
